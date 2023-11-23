@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=^.　.^&animation=fadeIn&fontColor=555555)
+![header](https://capsule-render.vercel.app/api?text=^.　.^&animation=fadeIn&fontColor=555555&type=Cylinder)
 
 <h3 align="center">:blush:</h3>
 
